@@ -13,6 +13,6 @@ Este anúncio tem o estilo "meme", onde temos uma imagem com uma legenda que se 
 Por sua vez é simples de se fazer
 
 ## FB - Story 01
-Aqui a ideia principal se mantem, o que muda é a dimensão. Ela fica mais alta pois tem 1920px de altura e 1080px de largura.
+Aqui a ideia principal se mantem, o que muda é a dimensão. Ela fica mais alta pois tem 1920px de altura e 1080px de largura. 
 
 <img src="https://image4.cdn2.seaart.ai/2023-09-11/16906967605858309/81eb14fa87412a3f8e220bbf88fa98e6cafacd16.png">
