@@ -1,4 +1,4 @@
-# arquivos_kd
+# Arquivos da KD Digital OFC
 Estamos usando 2 tipos de imagens, para FEED e para STORY
 As de feed, tem o tamanho 1080x1080 ou formato 1:1
 Já as do Story sao 1920x180 ou formato 9:16
